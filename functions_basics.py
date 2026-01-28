@@ -1,3 +1,6 @@
+# This file contains basic examples of Python functions,
+# including parameters, return values, and function calls.
+
 # Practice: basic functions
 
 # A simple function with no parameters
