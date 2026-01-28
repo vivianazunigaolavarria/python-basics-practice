@@ -12,3 +12,7 @@ Beginner Python exercises based on my learning notes.
 
 ## Progress log
 - v0.1: Repo created + README
+- v0.2: Inputs and type conversion practice
+- v0.3: If / elif / else conditions
+- v0.4: Loops and counters
+
